@@ -3,7 +3,7 @@ name: Avisos Moodle
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # cada 2 horas (hora UTC)
+    - cron: "*/5 * * * *"   # cada 2 horas (hora UTC)
   workflow_dispatch:         # permite ejecutarlo a mano desde la pestaña Actions
 
 permissions:
