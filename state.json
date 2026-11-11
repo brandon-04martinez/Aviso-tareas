@@ -89,11 +89,6 @@
     "24h": false,
     "3h": false
   },
-  "43855@eva.puce.edu.ec/QUI-202602R": {
-    "nuevo": true,
-    "24h": false,
-    "3h": false
-  },
   "44948@eva.puce.edu.ec/QUI-202602R": {
     "nuevo": true,
     "24h": false,
@@ -117,11 +112,6 @@
   "45200@eva.puce.edu.ec/QUI-202602R": {
     "nuevo": true,
     "24h": false,
-    "3h": false
-  },
-  "46290@eva.puce.edu.ec/QUI-202602R": {
-    "nuevo": true,
-    "24h": true,
     "3h": false
   }
 }
